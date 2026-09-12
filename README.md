@@ -1,8 +1,14 @@
 # Insurance AI Agent
 
-![Insurance AI Agent Preview](preview.png)
+<p align="center">
+  <img src="./preview.png" alt="Insurance AI Agent Preview" width="900">
+</p>
 
-An AI-powered insurance assistant that analyzes customer messages, identifies their insurance needs, and connects qualified prospects with the appropriate company team.
+<p align="center">
+  An AI-powered insurance assistant that analyzes customer messages, identifies their insurance needs, and connects qualified prospects with the appropriate company team.
+</p>
+
+---
 
 ## Tech Stack
 
@@ -42,7 +48,6 @@ Make sure your PC has:
 * **Java:** 17 or higher
 * **Maven:** 3.9+
 * **PostgreSQL:** 14+
-* Internet connection for AI and email services
 
 ---
 
@@ -169,18 +174,19 @@ mvn clean package
 ```text
 Insurance-AI-Agent/
 │
+├── preview.png
+├── README.md
+│
 ├── Backend_Springboot/
 │   ├── src/
 │   ├── pom.xml
 │   └── application.properties
 │
-├── Fronend_Angular/
-│   ├── src/
-│   ├── public/
-│   ├── package.json
-│   └── angular.json
-│
-└── README.md
+└── Fronend_Angular/
+    ├── src/
+    ├── public/
+    ├── package.json
+    └── angular.json
 ```
 
 ---
