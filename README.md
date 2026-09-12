@@ -1,14 +1,8 @@
 # Insurance AI Agent
 
-<p align=>
-  <img src="./preview.png" alt="Insurance AI Agent Preview" width="900">
-</p>
+![Insurance AI Agent Preview](preview.png)
 
-<p align="center">
-  An AI-powered insurance assistant that analyzes customer messages, identifies their insurance needs, and connects qualified prospects with the appropriate company team.
-</p>
-
----
+An AI-powered insurance assistant that analyzes customer messages, identifies their insurance needs, and connects qualified prospects with the appropriate company team.
 
 ## Tech Stack
 
@@ -174,19 +168,18 @@ mvn clean package
 ```text
 Insurance-AI-Agent/
 │
-├── preview.png
-├── README.md
-│
 ├── Backend_Springboot/
 │   ├── src/
 │   ├── pom.xml
 │   └── application.properties
 │
-└── Fronend_Angular/
-    ├── src/
-    ├── public/
-    ├── package.json
-    └── angular.json
+├── Fronend_Angular/
+│   ├── src/
+│   ├── public/
+│   ├── package.json
+│   └── angular.json
+│
+└── README.md
 ```
 
 ---
