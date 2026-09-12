@@ -1,6 +1,6 @@
 # Insurance AI Agent
 
-<p align="center">
+<p align=>
   <img src="./preview.png" alt="Insurance AI Agent Preview" width="900">
 </p>
 
