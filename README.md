@@ -52,7 +52,6 @@ The frontend provides the web interface for the Insurance AI Agent.
 ## Installation
 
 ```bash
-cd Fronend_Angular
 npm install
 ```
 
@@ -74,11 +73,7 @@ http://localhost:4200
 npm run build
 ```
 
-Output:
 
-```text
-dist/project
-```
 
 ## Tests
 
